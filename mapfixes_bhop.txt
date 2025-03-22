@@ -34,6 +34,7 @@ submitted fixes (manual time deletion, list times needing deletion):
 submitted fixes (no wipe):
 6420411884 - Calm Down - added tomatox to creatorname - copylocked
 10298870923 - Hello - added Justyn1 to creatorname - copylocked
+126310637557454 - Strafe FiBzY - Spawn zone no longer in the ground - LF
 
 submitted fixes need add map data:
 
